@@ -65,7 +65,7 @@ Si deseas conocer más sobre su arquitectura🛠, puedes revisar el siguiente di
 </td>
 
 
-<td width="50%">
+<td width="50%" valign="top">
 <h3 align="center">Aplicación Móvil Android "Tregalo"</h3>
 <div align="center">
 <img src="https://imgur.com/slRoqjy.jpg" width="400" alt="Aplicación Web "Club de la Comuna"></a>
